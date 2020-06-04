@@ -3,6 +3,6 @@ For this workshop, you will update `Homework 11` client application to use [Angu
   
 First, you will need to [install the package](https://material.angular.io/guide/getting-started) and as you read through the documentation, it is composed of multiple modules, it is advisable to create a `MaterialModule` that encapsulates *(imports/exports)* all other Material modules.  
   
-**Requirements:** Use the Material components for your buttons, table, and form elements.  
+**Requirements:** Use Material components for all your buttons, table, and form elements.  
   
 Good luck.
