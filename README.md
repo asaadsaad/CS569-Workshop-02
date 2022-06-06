@@ -11,3 +11,5 @@ Update the last coding project with the following:
 - Create a `Guard` to be applied on edit address component so only logged in users can navigate to it, otherwise, they should be redirected to the `Login` component.
   
 *Submission deadline 2:00 PM*
+
+**Optional:** Optimize your list of addresses to use pagination.
