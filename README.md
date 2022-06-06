@@ -12,4 +12,6 @@ Update the last coding project with the following:
   
 *Submission deadline 2:00 PM*
 
-**Optional:** Optimize your list of addresses to use pagination.
+**Optional:** 
+* Publish the frontend app and serve it from the same backend server.
+* Optimize your list of addresses to use pagination.
